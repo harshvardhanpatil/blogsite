@@ -1,0 +1,43 @@
+@font-face {
+font-family: "techno_hideo-webfont";
+src: url("fonts/logofont/techno_hideo-webfont.eot");
+src: 
+url("fonts/logofont/techno_hideo-webfont.woff") format("woff"),
+url("fonts/logofont/techno_hideo-webfont.otf") format("opentype"),
+url("fonts/logofont/techno_hideo-webfont.svg#filename") format("svg");
+}
+
+@font-face {
+font-family: "enter-the-grid-webfont";
+src: url("fonts/font2/enter-the-grid-webfont.eot");
+src: 
+url("fonts/font2/enter-the-grid-webfont.woff") format("woff"),
+url("fonts/font2/enter-the-grid-webfont.otf") format("opentype"),
+url("fonts/font2/enter-the-grid-webfont.svg#filename") format("svg");
+}
+
+@font-face {
+font-family: "batmfa__-webfont";
+src: url("fonts/generalfont/batmfa__-webfont.eot");
+src:url("fonts/generalfont/batmfa__-webfont.woff") format("woff"),
+url("fonts/generalfont/batmfa__-webfont.otf") format("opentype"),
+url("fonts/generalfont/batmfa__-webfont.svg#filename") format("svg");
+}
+
+.logo{
+	font-family: techno_hideo-webfont;
+	font-size: 30px;
+
+}
+.menu-item{
+	font-family: enter-the-grid-webfont;
+	/*font-size:25px ;*/
+	font-style: none;
+
+}
+
+*{
+
+	font-family: batmfa__-webfont;
+	
+}
