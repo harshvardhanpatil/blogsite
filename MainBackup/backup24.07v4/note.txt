@@ -1,0 +1,6 @@
+V4:new features added to add user in admin
+and displaying user details
+
+
+TODO deleting user
+and content management
